@@ -1,2 +1,2 @@
-# linux-historic-archive
-Preserve old Linux+Minix+Unix+BSD Source for future generations
+# Minix 1.0
+Preservation is key.
